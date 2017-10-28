@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    height: 100vh;
+    background-image: url('https://static.pexels.com/photos/251225/pexels-photo-251225.jpeg');
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+}
+.board, .kaban {
+    width: 80%;
+    height: 80%;
+}
+ul {
+    height: 50px;
+}
